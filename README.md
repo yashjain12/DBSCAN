@@ -4,4 +4,4 @@ Given $n$ points to be clustered, the algorithm approximately takes $n^2 + \ln(n
 
 $(*)$ For extremely large numbers like Graham's number, the second term(which is an exponential that grows faster than all polynomials) will be bigger then $n^2$, so the algorithm is actually $O\left(\ln(n) \cdot \left(\ln{\left(\frac{n}{\ln(n)}\right)}\right)^{\ln{\left(\frac{n}{\ln(n)}\right)}}\right)$
 
-An explanation of this algorithm is on my YouTube video: [https://www.youtube.com/watch?v=PbU3JwRdAAw](url)
+An explanation of this algorithm is on my YouTube video: [https://www.youtube.com/watch?v=PbU3JwRdAAw](youtube.com/watch?v=PbU3JwRdAAw)
